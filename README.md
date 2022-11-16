@@ -1,6 +1,7 @@
 # AprendizadoMaquinaSupervisionado
 
 Nome dos integrantes: Lucas Nathan de Oliveira e Mateus dos anjos
+Link para DATAset: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?resource=download
 
 Turma (BSI - Quarta)
 
